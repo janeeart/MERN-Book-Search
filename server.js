@@ -38,4 +38,4 @@ db.once('open', () => {
 });
 
 
-//heroku deployment issue. will not update to match local?
+//attempting heroku deployment after merging branches. 
