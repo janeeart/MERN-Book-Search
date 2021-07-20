@@ -16,7 +16,7 @@ This web application was created by modifying starter code. I was provided with 
 This app allows users to log in and save book searches to the back end.
   
 ## Installation
-The user will run ```npm run develop``` in the terminal to run the project locally. 
+The user will run ```npm run develop``` in the terminal to run the project locally on their computer.
   
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
