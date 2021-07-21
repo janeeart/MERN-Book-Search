@@ -23,6 +23,9 @@ The user will run ```npm run develop``` in the terminal to run the project local
   
 ## Contributors
 Janée Artis
+
+## Deployed Application
+ https://young-river-58555.herokuapp.com/
   
 ## Questions? Contact Me:
 * GitHub: [GitHub Profile](https://github.com/janeeart)
